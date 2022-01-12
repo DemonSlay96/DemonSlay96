@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @DemonSlay96
-- 👀 I’m interested in Game Development for VR and 3D using Unity and Unreal Engine
+- 👋 Hi, I’m Niryan Valia
+- 👀 I’m interested in Game Development for VR and 3D using Unity
 - 🌱 I’m currently learning to become a GamePlay Programmer
 - 💞️ I’m looking to collaborate on Gaming Projects
 - 📫 How to reach me niryanvalia93@gmail.com
