@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Niryan Valia
-- 👀 I’m interested in Data Analytics and Machine Learning/Deep Learning.
-- 🌱 I’m looking forward to become AI developer
+- 👀 I’m interested in Data Analytics Engineering and Machine Learning/Deep Learning.
+- 🌱 I’m looking forward to become Data Engineer/AI developer
 - 📫 How to reach me niryanvalia93@gmail.com
 
 <!---
